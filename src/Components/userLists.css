@@ -1,0 +1,9 @@
+.container {
+  background-color: blueviolet;
+  padding: 2rem;
+  border-radius: 20px;
+}
+.container .btn {
+  background-color: red;
+  font-size: 3rem;
+}
